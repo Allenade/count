@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  position: fixed;
+  bottom: 15px;
+  left: 15px;
+  /* font-size: 14px; */
+  transition: bottom 0.2s;
+}
+
+.fa.fa-whatsapp {
+  background: linear-gradient(rgb(0, 240, 0), green);
+
+  color: #fff;
+  border-radius: 70%;
+  text-align: center;
+  font-size: 45px;
+  line-height: 90px;
+  width: 221%;
+  box-shadow: 1px 1px 4px rgb(60 60 60);
+}
